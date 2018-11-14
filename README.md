@@ -18,6 +18,20 @@
 
 运行截屏:
 
+作业2:
+
+1.登陆验证：
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/loginFail.jpeg)
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/WechatIMG5.jpeg)
+
+2.返回列表
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/loginSuccess.jpeg)
+
+作业1:
+
 1.dashboard
 
 ![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/dashboard.png)
