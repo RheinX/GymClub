@@ -4,12 +4,6 @@
 团队成员：
   18126343 徐炜杰
   
-  18126258 陈圣君
-  
-  18126323 王斌
-  
-  18126288 李俊东
-  
 技术特性：
   IDE：Android Studio
   
@@ -20,6 +14,28 @@
   虚拟机：Nexus 5X API 28
 
 运行截屏:
+
+作业3：
+1.邮件:
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/email1.jpg)
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/email2.jpg)
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/email3.jpg)
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/email4.jpg)
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/email5.jpg)
+
+2.视频播放：
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/video1.jpg)
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/video2.jpg)
+
+3.地图：
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/map.jpg)
 
 作业2:
 
