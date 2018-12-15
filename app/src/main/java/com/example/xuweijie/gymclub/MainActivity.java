@@ -111,6 +111,12 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_map) {
             Intent intent = new Intent(MainActivity.this, MapActivity.class);
             startActivity(intent);
+        }else if(id==R.id.nav_articles){
+            Intent intent = new Intent(MainActivity.this, ActiclesActivity.class);
+            startActivity(intent);
+        }else if(id==R.id.nav_info){
+            Intent intent = new Intent(MainActivity.this, TrainerInfoActivity.class);
+            startActivity(intent);
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

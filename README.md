@@ -15,7 +15,23 @@
 
 运行截屏:
 
+作业4：
+
+技术特性：Room API
+
+1.文章列表
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/articles.jpeg)
+
+2.训练列表
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/train_info.jpeg)
+
+
 作业3：
+
+技术特性： Android Video,Android Email, 高德地图
+
 1.邮件:
 
 ![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/email1.jpg)

@@ -49,7 +49,9 @@
         <activity android:name=".TrainListActivity" />
         <activity android:name=".VideosActivity" />
         <activity android:name=".EmailActivity" />
-        <activity android:name=".MapActivity"></activity>
+        <activity android:name=".MapActivity" />
+        <activity android:name=".TrainerInfoActivity" />
+        <activity android:name=".ActiclesActivity"></activity>
     </application>
 
 </manifest>
