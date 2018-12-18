@@ -22,6 +22,7 @@ import java.net.URL;
 
 public class LoginActivity extends AppCompatActivity {
     private Button btnSubmit;
+    private Button qqLogin;
     private EditText textUsername;
     private EditText passWord;
     private static String LOGIN_URL="http://10.0.2.2:8083/spark/android";
@@ -34,6 +35,7 @@ public class LoginActivity extends AppCompatActivity {
         btnSubmit = (Button) findViewById(R.id.btn_login);
         textUsername=(EditText)findViewById(R.id.et_userName);
         passWord=(EditText)findViewById(R.id.et_password);
+        qqLogin=(Button)findViewById(R.id.btn_QQlogin);
 
         btnSubmit.setOnClickListener(new View.OnClickListener() {
             //重写点击事件的处理方法onClick()
@@ -71,6 +73,14 @@ public class LoginActivity extends AppCompatActivity {
                     e.printStackTrace();
                 }
 
+            }
+        });
+
+        qqLogin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity.this, QQLoginActivity.class);
+                startActivity(intent);
             }
         });
     }

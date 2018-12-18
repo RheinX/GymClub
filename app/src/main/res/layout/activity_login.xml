@@ -171,6 +171,20 @@
             android:textColor="#fff"
             android:textSize="18sp" />
 
+        <Button
+            android:id="@+id/btn_QQlogin"
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/cb_checkbox"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="85dp"
+            android:background="@drawable/round_corner_bg"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="QQ登录"
+            android:textColor="#fff"
+            android:textSize="18sp" />
+
     </RelativeLayout>
 
 

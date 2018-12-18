@@ -15,6 +15,16 @@
 
 运行截屏:
 
+作业5：
+
+技术特性：QQ SDK
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/QQlogin1.jpeg)
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/QQlogin2.jpeg)
+
+![Alt text](https://github.com/RheinX/GymClub/blob/master/screenshots/QQlogin3.jpeg)
+
 作业4：
 
 技术特性：Room API
